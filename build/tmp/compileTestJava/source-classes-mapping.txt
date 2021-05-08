@@ -1,0 +1,2 @@
+uk/co/danielbryant/djshopping/shopfront/ShopfrontApplicationTests.java
+ uk.co.danielbryant.djshopping.shopfront.ShopfrontApplicationTests
