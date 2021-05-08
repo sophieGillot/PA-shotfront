@@ -1,0 +1,20 @@
+uk/co/danielbryant/djshopping/shopfront/services/dto/ProductDTO.java
+ uk.co.danielbryant.djshopping.shopfront.services.dto.ProductDTO
+uk/co/danielbryant/djshopping/shopfront/services/ProductService.java
+ uk.co.danielbryant.djshopping.shopfront.services.ProductService
+uk/co/danielbryant/djshopping/shopfront/model/Product.java
+ uk.co.danielbryant.djshopping.shopfront.model.Product
+uk/co/danielbryant/djshopping/shopfront/ShopfrontApplication.java
+ uk.co.danielbryant.djshopping.shopfront.ShopfrontApplication
+uk/co/danielbryant/djshopping/shopfront/repo/StockRepo.java
+ uk.co.danielbryant.djshopping.shopfront.repo.StockRepo
+ uk.co.danielbryant.djshopping.shopfront.repo.StockRepo$1
+uk/co/danielbryant/djshopping/shopfront/resources/ProductResource.java
+ uk.co.danielbryant.djshopping.shopfront.resources.ProductResource
+uk/co/danielbryant/djshopping/shopfront/repo/ProductRepo.java
+ uk.co.danielbryant.djshopping.shopfront.repo.ProductRepo
+ uk.co.danielbryant.djshopping.shopfront.repo.ProductRepo$1
+uk/co/danielbryant/djshopping/shopfront/controllers/HomeController.java
+ uk.co.danielbryant.djshopping.shopfront.controllers.HomeController
+uk/co/danielbryant/djshopping/shopfront/services/dto/StockDTO.java
+ uk.co.danielbryant.djshopping.shopfront.services.dto.StockDTO
